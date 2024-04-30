@@ -18,4 +18,3 @@ const hannah = {
     }
 };
 ```
-![head.gif](https://media1.tenor.com/m/JZJgJaYSxp8AAAAd/asa-mitaka.gif)
