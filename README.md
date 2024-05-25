@@ -10,7 +10,7 @@
 
 ```javascript
 const hannah = {
-    pronouns: "She" / "Her 👩🏻",
+    pronouns: "She" / "Her",
     Things I like: ["Web dev", "iOS dev", "Linux enthusiast"],
     technologies: {
         frontEnd: {
