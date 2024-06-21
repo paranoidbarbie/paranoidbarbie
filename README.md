@@ -1,6 +1,5 @@
-
 <p align="center">
-<img src="https://media1.tenor.com/m/n2-YbzHQlMgAAAAC/mitaka-asa.gif" style="max-height:500px"/>
+<img src="https://i.imgur.com/HJossyr.png" style="max-height:500px"/>
 </p>
 <div align='center'>
 <a target="_blank" href="https://hannahbrown.site">
