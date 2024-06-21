@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/HJossyr.png" style="max-height:500px"/>
+<img src="https://i.imgur.com/xW25OSM.png" style="max-height:500px"/>
 </p>
 <div align='center'>
 <a target="_blank" href="https://hannahbrown.site">
